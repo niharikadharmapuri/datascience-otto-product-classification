@@ -13,5 +13,4 @@ Now  run the otto.ipynb on the browser. You can see log loss scores for various 
 Authors:
 Niharika Dharmapuri
 
-License:
-This project is licensed under the MIT License 
+
